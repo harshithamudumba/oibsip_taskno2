@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: rgb(255, 250, 250);
+    color: rgb(9, 8, 8);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 28px;
+  }
+  p{
+    color: rgb(4, 3, 3);
+  }
+  h2{
+    color: rgb(3, 3, 3);
+  }
+  
+  main {
+    padding-bottom: 50px;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 50px 0;
+    background-color:rgb(249, 245, 245);
+  }
+  
+  .hero img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .hero-text {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .biography {
+    padding: 50px 0;
+    background-color: rgb(136, 135, 135);
+  }
+  
+  .biography h2 {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color:rgb(214, 214, 214);
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
